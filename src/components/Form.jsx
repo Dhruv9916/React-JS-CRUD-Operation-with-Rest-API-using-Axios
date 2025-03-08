@@ -84,6 +84,7 @@ function Form({ data, setData, updateDataApi, setUpdateDataApi }) {
           placeholder="Add Title"
           value={addData.title}
           onChange={handleInputChange}
+          required
         />
       </div>
 
@@ -97,6 +98,7 @@ function Form({ data, setData, updateDataApi, setUpdateDataApi }) {
           name="body"
           value={addData.body}
           onChange={handleInputChange}
+          required
         />
       </div>
 
