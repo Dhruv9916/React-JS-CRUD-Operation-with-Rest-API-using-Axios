@@ -1,12 +1,35 @@
-# React + Vite
+# 📌 React CRUD Operations with REST API using Axios (Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 **Live Demo:** [crud-axios-react-by-dhruv.netlify.app](https://crud-axios-react-by-dhruv.netlify.app/)
 
-Currently, two official plugins are available:
+## 📝 About the Project
+This project demonstrates **CRUD (Create, Read, Update, Delete) operations** in a **React.js** application using **Axios** to interact with a REST API. Built with **Vite**, it ensures a fast and optimized development experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+✅ Fetch and display data from a REST API  
+✅ Create new records using a form  
+✅ Update existing records  
+✅ Delete records from the API  
+✅ Error handling for API requests  
+✅ Optimized Axios instance for API calls  
+✅ Modern React Hooks (`useState`, `useEffect`)  
+✅ Built with **Vite** for faster development  
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- **Frontend:** React.js, JavaScript, HTML, CSS  
+- **API Handling:** Axios  
+- **State Management:** React Hooks (`useState`, `useEffect`)  
+- **Build Tool:** Vite  
+- **Hosting:** Netlify  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Project Overview
+The project follows a **structured approach to CRUD operations**, as detailed below:
+
+1️⃣ **GET Request:** Fetch and display API data  
+2️⃣ **DELETE Request:** Remove data from the API  
+3️⃣ **POST Request:** Add new data  
+4️⃣ **PUT Request:** Update existing data  
+
+
+
+
